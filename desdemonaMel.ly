@@ -319,27 +319,27 @@ f, ces' ees aes ees ces
 f, ces' ees aes ees ces
 \clef bass
 \key e \minor
-g'8 b, e, b' g' b,				 %measure 1
-  fis'8 b, e, b' fis' b,			 %measure 2
-  g'8 b, e, b' g' b,  				%measure 3
-  fis'8 b, e, b' fis' b,			 %measure 4
-  g'8 b, e, b' g' b,				%measure 5
-  fis'8 b, e, b' fis' b,			 %measure 6
+g'8 b, e, b' g' b,				 
+  fis'8 b, e, b' fis' b,			 
+  g'8 b, e, b' g' b,  				%measure 66
+  fis'8 b, e, b' fis' b,			 %measure 67
+  g'8 b, e, b' g' b,				%measure 68
+  fis'8 b, e, b' fis' b,			
   g'8 b, e, b' g' b,
-  fis' c e, c' fis c   				%measure 7
-  fis a, d, a' fis' a,				%measure 8
-  e' g, c, g' e' g,				%measure 9
-  dis' fis, b, fis' dis' fis,			%measure 10
+  fis' c e, c' fis c   				%measure 71
+  fis a, d, a' fis' a,				%measure 72
+  e' g, c, g' e' g,				%measure 73
+  dis' fis, b, fis' dis' fis,		
   d' fis, b, fis' d' fis,
-  c' e, a, e' c' e,				%measure13
-  c' e, a, e' c' e,				%measure14
+  c' e, a, e' c' e,				%measure 76
+  c' e, a, e' c' e,				
   a c, fis, c' a' c,
   g' ^"cresc." c, e, c' g' c,
   fis c e,  c'  fis c
   e c e, c' e a,
-  c e, a, e' c' e,				%measure 19
-  c' e, a, e' c' e,				%measure 19
-  a, e' c' e, a, e'				%measure 19
+  c e, a, e' c' e,				
+  c' e, a, e' c' e,				%measure 
+  a, e' c' e, a, e'				
   a,4 r4  r4 
   r2.
   r2.
